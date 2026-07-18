@@ -1,0 +1,47 @@
+CAGEWORKS — Google Play Store Listing
+=====================================
+
+App name:
+  Cageworks — Cage Arithmetic Puzzle
+
+Short description (max 80 chars):
+  Balance every cage. 150 hand-verified maths puzzles, one solution each.
+
+Full description:
+---------------------------------------------------------------
+Cageworks is a cage-arithmetic logic puzzle in the spirit of KenKen.
+
+Fill every row and column with 1 through the grid size, each number
+appearing exactly once. The grid is also divided into outlined cages, each
+showing a target number and an operation. The values inside a cage must
+add, subtract, multiply, or divide together to reach that target — no
+guessing required, just deduction.
+
+There is no ambiguity. Each of the 150 puzzles has been checked by a real
+solver to guarantee a single, logical filling — a path of pure deduction
+always exists from the first cell to the last.
+
+FEATURES
+• 150 hand-verified puzzles across three grids
+   – Basics (4×4), Balance (5×5), Overdrive (6×6)
+• Guaranteed unique solution on every board — solvable by logic alone
+• Simple tap-and-type controls: select a cell, enter its value
+• Live conflict detection across rows, columns, and cages
+• Earn up to three stars per puzzle for efficient solving
+• Cool blueprint-inspired visuals with cyan cage clues
+• Calm ambient soundtrack and tactile feedback — both toggleable
+• Fully offline. No ads, no accounts, no tracking. Progress stays on your
+  device.
+
+Balance every cage.
+
+Category: Puzzle
+Content rating: Everyone
+Tags: math puzzle, logic puzzle, kenken, arithmetic, brain teaser, offline, no ads
+---------------------------------------------------------------
+
+ASSETS INCLUDED
+  - assets/icon.png            (512x512 app icon)
+  - assets/feature_graphic.png (1024x500 feature graphic)
+  - screens/                   (5 Play Store screenshots, 1080x1920)
+  - PRIVACY_POLICY.html        (host this and link it in the listing)
